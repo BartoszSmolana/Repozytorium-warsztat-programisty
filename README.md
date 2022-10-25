@@ -33,4 +33,4 @@ lista numeryczna / przygotowanie
 
 W pythonie używamy `print("tekst")` co pozwoli nam na wyswietlenie napisu
 
-![obrazek](Szlachcic)
+![obrazek](Szlachcic.jpg)
